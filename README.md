@@ -19,6 +19,8 @@
              '   '   '
 ```
 
+![ASCII Jellyfish Demo](demo.gif)
+
 Deep-sea hydrodynamics rendered in monospace ASCII characters on an HTML `<canvas>`. Featuring sinusoidal bell jet contraction, multi-node trailing tentacles, oral arms, plankton swarms, and bioluminescent glow dissipation.
 
 Inspired by [ascii-sharks](https://github.com/stackedlol/ascii-sharks).
