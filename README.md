@@ -2,23 +2,6 @@
 
 > Pulsing jellyfish drifting in ASCII on HTML canvas with jet propulsion & bioluminescent glows. Zero dependencies.
 
-```text
-               .---.
-             /   :   \
-            /  :;t%S:  \
-           |  :;t%SX%t: |
-           |  %SX8#8XS% |
-            \  :;t%S:  /
-             \__vvv__/
-               / | \
-              (  |  )
-               ) | (
-              (  |  )
-               ) | (
-              /  |  \
-             '   '   '
-```
-
 ![ASCII Jellyfish Demo](demo.gif)
 
 Deep-sea hydrodynamics rendered in monospace ASCII characters on an HTML `<canvas>`. Featuring sinusoidal bell jet contraction, multi-node trailing tentacles, oral arms, plankton swarms, and bioluminescent glow dissipation.
